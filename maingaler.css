@@ -1,0 +1,224 @@
+ #mainMenu {display: flex;
+    flex-wrap: wrap;
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+           }
+
+        /* főcím*/
+   
+
+ h1 {color:  #403f3f;
+        text-align: center;
+        font-size: 3rem;}
+
+/*kezdooldal*/
+
+
+
+ .ez1{ display: block;
+       padding: 16px;
+     background-color: #033c3d;
+       text-decoration: none;
+       font-size: 2rem;
+        color:  #d4cccd;
+       font-family: cursive;}
+
+ .nemez1{
+       display: block;
+       padding: 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+       color: #ab9fa5;
+       font-family: cursive;
+        }
+.nev_text {text-align: center;
+        display:grid;
+        grid-template-rows: minmax(1rem,1fr) max-content minmax(1rem,1fr);
+        grid-template-columns: minmax(1rem,1fr) ;
+        padding: 20% 0;
+                }
+span {vertical-align: middle;
+       font-size: 80px;
+       font-family: cursive;
+                 } 
+
+
+
+/* bemutatkozás*/
+
+.ez2{ display: block;
+       padding: 16px;
+     background-color: #033c3d;
+       text-decoration: none;
+       font-size: 2rem;
+        color:  #d4cccd;
+       font-family: cursive;}
+
+ .nemez2{
+       display: block;
+       padding: 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+       color: #ab9fa5;
+       font-family: cursive;
+        }
+
+   .szov {font-size: 2rem;
+   font-family: cursive;
+   text-align: center;
+    display:grid;
+    grid-template-rows: minmax(1rem,1fr) max-content minmax(1rem,1fr);
+    grid-template-columns: minmax(1rem,1fr) ;
+    padding: 10px ;
+}
+
+ 
+
+/*galeria*/
+
+
+
+.ez{ display: block;
+       padding: 16px;
+     background-color: #033c3d;
+       text-decoration: none;
+       font-size: 2rem;
+        color:  #d4cccd;
+       font-family: cursive;
+       float: left;}
+
+ .nemez{
+       display: block;
+       padding: 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+       color: #ab9fa5;
+       font-family: cursive;
+       float: left;
+        }
+
+
+ 
+
+
+html {background-color: #decbbd;
+    text-align: center;
+}
+
+
+
+ 
+
+ #mainMenu1 li a  {
+       
+       padding: 16px 32px;
+       background-color: #033c3d;
+       text-decoration: none;
+       font-size: 2rem;
+       color:  #d4cccd;
+       margin: 20px 80px ;
+       font-family: cursive;
+       border-radius: 20px;
+       display: inline-block;
+      
+ }
+
+p {font-size: 2rem;
+color: #3b3a3a;
+font-family: cursive;
+}
+
+body {text-align: center;}
+
+
+.gombruha a{ display: block;
+       padding: 8px 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+       color: #d4cccd;
+       margin: 16px;
+       font-family: cursive;
+       text-align: center;
+        }
+
+.gombszobor a{ display: block;
+       padding: 8px 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+       color: #d4cccd;
+       margin: 16px;
+       font-family: cursive;
+       text-align: center;
+        }
+        
+.gombegyeb a{ display: block;
+       padding: 8px 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+        color: #d4cccd;
+       margin: 16px;
+       font-family: cursive;
+       text-align: center;
+        }
+        
+  img{max-height: 500px;
+       margin: 10px 20px;
+        margin-left: auto;
+        margin-right: auto;
+       padding: 20px; 
+       align: center;
+       justify-content: center;
+}
+
+/*weboldalterv*/
+
+.ez4{ display: block;
+       padding: 16px;
+     background-color: #033c3d;
+       text-decoration: none;
+       font-size: 2rem;
+        color:  #d4cccd;
+       font-family: cursive;
+   }
+
+ .nemez4{
+       display: block;
+       padding: 16px;
+       background-color: #612a45;
+       text-decoration: none;
+       font-size: 2rem;
+       color: #ab9fa5;
+       font-family: cursive;
+        }
+.tervkep{float: left;
+        max-width: 20rem;
+        margin: 50px 20px 15px 15px;
+    }
+
+.tervszoveg{font-size: 2rem;
+color: #3b3a3a;
+font-family: cursive;
+}
+
+.webalap {background-color: #decbbd;
+    text-align: left;
+}
+
+.terv{text-align: left;
+    padding: 3%;
+} 
+
+h1 {color:  #403f3f;
+        text-align: center;
+        font-size: 3rem;
+    }
+
+
