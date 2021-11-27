@@ -103,16 +103,10 @@ span {vertical-align: middle;
         }
 
 
- 
-
-
 html {background-color: #decbbd;
     text-align: center;
 }
 
-
-
- 
 
  #mainMenu1 li a  {
        
@@ -178,13 +172,13 @@ body {text-align: center;
        align: center;
        justify-content: center;
 }
-.utsokep{max-height: 200px;
+.utsokep{ max-width: 5rem;
        margin: 10px 20px;
- margin-left: auto;
+       margin-left: auto;
         margin-right: auto;
        padding: 20px; 
        align: center;
- justify-content: center;}
+       justify-content: center;}
 
 /*weboldalterv*/
 
