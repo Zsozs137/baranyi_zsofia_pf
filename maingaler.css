@@ -172,7 +172,7 @@ body {text-align: center;
        align: center;
        justify-content: center;
 }
-.utsokep{ max-width: 5rem;
+.utsokep{max-height: 200px;
        margin: 10px 20px;
        margin-left: auto;
         margin-right: auto;
