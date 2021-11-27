@@ -134,7 +134,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body {text-align: center;
-display: center;}
+}
 
 
 .gombruha a{ display: block;
@@ -146,6 +146,9 @@ display: center;}
        margin: 16px;
        font-family:  'Poppins', sans-serif;
        text-align: center;
+       display:grid;
+       grid-template-rows: minmax(1rem,1fr) max-content minmax(1rem,1fr);
+       grid-template-columns: minmax(1rem,1fr);
         }
 
 .gombszobor a{ display: block;
