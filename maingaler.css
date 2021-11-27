@@ -80,7 +80,10 @@ span {vertical-align: middle;
 
 /*galeria*/
 
-
+div .gombruha .gombszobor .gombegyeb{
+ display:grid;
+    grid-template-rows: minmax(1rem,1fr) max-content minmax(1rem,1fr);
+ grid-template-columns: minmax(1rem,1fr);}
 
 .ez{ display: block;
        padding: 16px;
