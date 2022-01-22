@@ -44,7 +44,7 @@ span {vertical-align: middle;
        font-size: 80px;
        font-family: 'Poppins', sans-serif;
                  } 
-
+body{min-height:100vh}
 
 
 /* bemutatkozás*/
