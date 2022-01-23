@@ -33,7 +33,7 @@
        text-decoration: none;
        font-size: 2rem;
        color: #ab9fa5;
-       font-family: 'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
         }
 .nev_text {text-align: center;
         display:grid;
@@ -66,11 +66,11 @@ body{min-height:100vh}
        text-decoration: none;
        font-size: 2rem;
        color: #ab9fa5;
-       font-family: 'Poppins', sans-serif;
+       font-family:  'Balsamiq Sans', cursive;
         }
 
    .szov {font-size: 2rem;
-   font-family:  'Poppins', sans-serif;
+   font-family: 'Balsamiq Sans', cursive;
    text-align: center;
     display:grid;
     grid-template-rows: minmax(1rem,1fr) max-content minmax(1rem,1fr);
@@ -90,7 +90,7 @@ body{min-height:100vh}
        text-decoration: none;
        font-size: 2rem;
         color:  #d4cccd;
-       font-family:  'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
        float: left;}
 
  .nemez{
@@ -100,7 +100,7 @@ body{min-height:100vh}
        text-decoration: none;
        font-size: 2rem;
        color: #ab9fa5;
-       font-family: 'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
        float: left;
         }
 
@@ -118,7 +118,7 @@ html {background-color: #decbbd;
        font-size: 2rem;
        color:  #d4cccd;
        margin: 20px 80px ;
-       font-family: 'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
        border-radius: 20px;
        display: inline-block;
       
@@ -126,7 +126,7 @@ html {background-color: #decbbd;
 
 p {font-size: 2rem;
 color: #3b3a3a;
-font-family: 'Poppins', sans-serif;
+font-family: 'Balsamiq Sans', cursive;
 }
 
 body {text-align: center;
@@ -140,7 +140,7 @@ body {text-align: center;
        font-size: 2rem;
        color: #d4cccd;
        margin: 16px;
-       font-family:  'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
        text-align: center;
        }
 
@@ -151,7 +151,7 @@ body {text-align: center;
        font-size: 2rem;
        color: #d4cccd;
        margin: 16px;
-       font-family:  'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
        text-align: center;
         }
         
@@ -162,7 +162,7 @@ body {text-align: center;
        font-size: 2rem;
         color: #d4cccd;
        margin: 16px;
-       font-family:  'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
        text-align: center;
         }
         
@@ -190,7 +190,7 @@ body {text-align: center;
        text-decoration: none;
        font-size: 2rem;
         color:  #d4cccd;
-       font-family:  'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
    }
 
  .nemez4{
@@ -200,7 +200,7 @@ body {text-align: center;
        text-decoration: none;
        font-size: 2rem;
        color: #ab9fa5;
-       font-family:  'Poppins', sans-serif;
+       font-family: 'Balsamiq Sans', cursive;
         }
 .tervkep{float: left;
         max-width: 20rem;
@@ -209,7 +209,7 @@ body {text-align: center;
 
 .tervszoveg{font-size: 2rem;
 color: #3b3a3a;
-font-family: 'Poppins', sans-serif;
+font-family: 'Balsamiq Sans', cursive;
 }
 
 .webalap {background-color: #decbbd;
