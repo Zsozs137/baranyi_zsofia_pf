@@ -43,7 +43,7 @@
                 }
 span {vertical-align: middle;
        font-size: 80px;
-       font-family: cursive;
+       font-family: 'lucida console', cursive;
        font-weight: bold;
                  } 
 body{min-height:100vh}
