@@ -12,7 +12,7 @@
  h1 {color:  #403f3f;
         text-align: center;
         font-size: 3rem;
-  font-family:'Dancing Script';}
+  }
 
 /*kezdooldal*/
 
@@ -24,7 +24,7 @@
        text-decoration: none;
        font-size: 2rem;
         color:  #d4cccd;
-       font-family: 'Dancing Script';}
+       font-family: 'Poppins', sans-serif;}
 
  .nemez1{
        display: block;
