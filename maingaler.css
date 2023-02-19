@@ -1,10 +1,20 @@
- #mainMenu {display: flex;
+/* #mainMenu {display: flex;
     flex-wrap: wrap;
        list-style-type: none;
        margin: 0;
        padding: 0;
        overflow: hidden;
-           }
+           } */
+
+#mainMenu {padding: 16px 32px;
+       background-color: #033c3d;
+       text-decoration: none;
+       font-size: 2rem;
+       color:  #d4cccd;
+       margin: 20px 80px ;
+       font-family: 'Balsamiq Sans', cursive;
+       border-radius: 20px;
+       display: inline-block; }
 
         /* főcím*/
    
